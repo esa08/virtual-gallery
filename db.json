@@ -1,15 +1,15 @@
 {
-  "posts": [
+  "galeries": [
     {
       "id": 1,
-      "name": "Museum Gallery"
-      "room": "",
+      "name": "Museum Gallery",
+      "room": "https://github.com/esa08/virtual-gallery/blob/master/3d-models/rooms/myGallery_vgr.gltf",
       "figures": [
         {
           "id": 1598521487904,
           "name": "figure1",
-          "model_path": "./src/3d-models/figures/figure1_vgf.gltf",
-          "model_name": "figure1_vgf.gltf",
+          "model_path": "https://github.com/esa08/virtual-gallery/blob/master/3d-models/figures/figure11_vgf.gltf",
+          "model_name": "figure11_vgf.gltf",
           "position": {
             "x": 3.1005444526672363,
             "y": 3.1254310607910156,
@@ -34,8 +34,8 @@
         {
           "id": 1598521683958,
           "name": "figure2",
-          "model_path": "./src/3d-models/figures/figure2_vgf.gltf",
-          "model_name": "figure2_vgf.gltf",
+          "model_path": "https://github.com/esa08/virtual-gallery/blob/master/3d-models/figures/figure10_vgf.gltf",
+          "model_name": "figure10_vgf.gltf",
           "position": {
             "x": -3.927783727645874,
             "y": 3.058867931365967,
@@ -60,8 +60,8 @@
         {
           "id": 1598521776983,
           "name": "figure3",
-          "model_path": "./src/3d-models/figures/figure3_vgf.gltf",
-          "model_name": "figure3_vgf.gltf",
+          "model_path": "https://github.com/esa08/virtual-gallery/blob/master/3d-models/figures/figure9_vgf.gltf",
+          "model_name": "figure9_vgf.gltf",
           "position": {
             "x": 3.143671751022339,
             "y": 3.0491907596588135,
@@ -83,10 +83,7 @@
             "z": 12.31523609161377
           }
         }
-      ],
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
